@@ -1,0 +1,23 @@
+{
+  "name": "arm-and-hammer-custom-carpentry",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noah4567/arm-and-hammer-custom-carpentry.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/noah4567/arm-and-hammer-custom-carpentry/issues"
+  },
+  "homepage": "https://github.com/noah4567/arm-and-hammer-custom-carpentry#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
